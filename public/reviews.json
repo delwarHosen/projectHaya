@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Showeb Bin Nasir",
+        "image":"https://i.ibb.co/n7XkBjV/showeb.jpg",
+        "details": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "designation":"CEO , dreamweavestation",
+        "rating": 3
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "name": "Don Delwar",
+        "image":"https://i.ibb.co/dLdd6wQ/DELWAR.jpg",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)",
+        "designation":"Analyst , dreamweavestation",
+        "rating": 3
+    },
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "name": "Pranto Das",
+        "image":"https://i.ibb.co/XxpFmdt/pranro.jpg",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)",
+        "designation":"Founder , dreamweavestation",
+        "rating": 5
+    },
+    {
+        "_id": "64301123f5a7e52ce1e8fa68",
+        "name": "Sarif Samad",
+        "image":"https://i.ibb.co/W2ZPqzc/samad.jpg",
+        "details": "I found the product to be incredibly useful and easy to use. The interface is intuitive, and it has all the features I need. Highly recommend it!",
+        "designation":"Project Maneger , dreamweavestation",
+        "rating": 4
+    }
+]

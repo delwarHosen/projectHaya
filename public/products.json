@@ -1,0 +1,162 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "type":"Original Cotton",
+        "name": "Blue Check Shirts",
+        "details": "Buy casual & formal Blue Checked Shirts online in India. Select Blue colour Check Shirts from your favorite brands at best price",
+        "image": "https://i.ibb.co/nQRnJQb/shirt-removebg-preview.png",
+        "category": "Shirt",
+        "price": 35.0,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "type":"Original Cotton",
+        "name": "Navy Blue Shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/R9Jx2pm/shirt1-removebg-preview.png",
+        "category": "Shirt",
+        "price": 39.20,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "type":"Original Cotton",
+        "name": "Kids Froks",
+        "details": "Shop trending frock designs for girls online at best prices from our wide range of latest party ",
+        "image": "https://i.ibb.co/7zgL9LW/kids-removebg-preview.png",
+        "category": "Kids",
+        "price": 59.0,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "type":"Original Cotton",
+        "name": "Red T-Shirt",
+        "details": "Heavy Cotton T-Shirt, Style G5000, Multipack ... This product has sustainability features recognized by trusted certifications. Safer chemicals",
+        "image": "https://i.ibb.co/VxLs6n4/t-shirt2-removebg-preview.png",
+        "category": "t-Shirt",
+        "price": 21.5,
+        "rating": 2
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "type":"Original Cotton",
+        "name": "Pink colour T-shirt",
+        "details": "Heavy Cotton T-Shirt, Style G5000, Multipack ... This product has sustainability features recognized",
+        "image": "https://i.ibb.co/c2PT9Vs/t-shirt3-removebg-preview.png",
+        "category": "t-Shirt",
+        "price": 18.0,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "type":"Original Cotton",
+        "name": "Gray one coour Shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/pPMrmtF/shirt2-removebg-preview.png",
+        "category": "Shirt",
+        "price": 25.0,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "type":"Original Cotton",
+        "name": "Blue Check Shirts",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/qCjRVXR/shirt4-removebg-preview.png",
+        "category": "Shirt",
+        "price": 28.20,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "type":"Original Cotton",
+        "name": "Purple shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/0tsPnMg/shirt5-removebg-preview.png",
+        "category": "Shirt",
+        "price": 26.9,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "type":"Original Cotton",
+        "name": "Black T-shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/ZGSgcdm/tShirt.png",
+        "category": "t-Shirt",
+        "price": 16.10,
+        "rating": 2
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "type":"Original Cotton",
+        "name": "Blue Shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/wKcvxvZ/t-shirt22-removebg-preview.png",
+        "category": "t-Shirt",
+        "price": 20.10,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "type":"Original Cotton",
+        "name": "Purple colour Shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/0tsPnMg/shirt5-removebg-preview.png",
+        "category": "Shirt",
+        "price": 26.5,
+        "rating": 2
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "type":"Original Cotton",
+        "name": "Kids Froks",
+        "details": "Shop trending frock designs for girls online at best prices from our wide range of latest party ",
+        "image": "https://i.ibb.co/7zgL9LW/kids-removebg-preview.png",
+        "category": "Kids",
+        "price": 59.0,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "type":"Original Cotton",
+        "name": "Blue Check Shirts",
+        "details": "Buy casual & formal Blue Checked Shirts online in India. Select Blue colour Check Shirts from your favorite brands at best price",
+        "image": "https://i.ibb.co/nQRnJQb/shirt-removebg-preview.png",
+        "category": "Shirt",
+        "price": 35.0,
+        "rating": 2
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "type":"Original Cotton",
+        "name": "Pink colour T-shirt",
+        "details": "Heavy Cotton T-Shirt, Style G5000, Multipack ... This product has sustainability features recognized",
+        "image": "https://i.ibb.co/c2PT9Vs/t-shirt3-removebg-preview.png",
+        "category": "t-Shirt",
+        "price": 18.0,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "type":"Original Cotton",
+        "name": "Red T-Shirt",
+        "details": "Heavy Cotton T-Shirt, Style G5000, Multipack ... This product has sustainability features recognized by trusted certifications. Safer chemicals",
+        "image": "https://i.ibb.co/VxLs6n4/t-shirt2-removebg-preview.png",
+        "category": "t-Shirt",
+        "price": 21.5,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "type":"Original Cotton",
+        "name": "Purple shirt",
+        "details": "Men's Regular-Fit Long-Sleeve Casual Poplin Shirt · Alimens & Gentle · Mens Solid Oxford Shirt Long Sleeve",
+        "image": "https://i.ibb.co/0tsPnMg/shirt5-removebg-preview.png",
+        "category": "Shirt",
+        "price": 26.9,
+        "rating": 3
+    }
+]
